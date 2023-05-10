@@ -1,1 +1,1 @@
-Texto complementar para aula
+Minicurso de git
